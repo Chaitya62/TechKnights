@@ -2,25 +2,22 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Sweta\AndroidStudioProjects\virtualW\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\Sweta\AndroidStudioProjects\virtualW\app\build\intermediates\pre-dexed\debug\classes-9dd6490ebbce009b42ab721b107d221b59ac79b2.jar" />
+        is-multidex="true"
+        jar="C:\Users\jagru\AndroidStudioProjects\ezybzy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3751ec089cfac6b0d491424932f3263735d0a86">
+        <dex dex="C:\Users\jagru\AndroidStudioProjects\ezybzy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_520956665cb92ac677922d8751deb82d1643746f\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Sweta\AndroidStudioProjects\virtualW\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\Sweta\AndroidStudioProjects\virtualW\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-4d1a9bcd40d864be031ffa7c7ee3aa009ad3244f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Sweta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\Sweta\AndroidStudioProjects\virtualW\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-e61ca69a8a5234885e28ebe3f834d63bd208b9c9.jar" />
+        is-multidex="true"
+        jar="C:\Users\jagru\AndroidStudioProjects\ezybzy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jagru\AndroidStudioProjects\ezybzy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca02c63ec1a7b998b078d1d2a1003e317457ee7c\classes.dex" />
     </item>
 
 </items>

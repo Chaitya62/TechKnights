@@ -1,4 +1,4 @@
-package com.lakj.comspace.simpletextclient;
+﻿package com.lakj.comspace.simpletextclient;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -320,8 +320,8 @@ public class Starters extends Activity {
 
                 AlertDialog.Builder builder = new AlertDialog.Builder(this);
                 builder.setMessage("Are you sure you don't want to place another order?")
-                        .setCancelable(false)
-                        .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                        
+                        .setPositiveButton("Yes", new DialogInterface {
                             public void onClick(DialogInterface dialog, int id) {
 
                                 Intent nextact = new Intent((Starters) o, thankyou.class);

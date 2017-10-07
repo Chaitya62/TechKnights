@@ -23,7 +23,6 @@ public class Veg extends Activity {
     static int paneer_kofta;
     static int total_veg;
     static String order_veg;
-    int finalize_order;
 
     @Override
     public void onBackPressed() {

@@ -11,8 +11,6 @@ import android.widget.Toast;
 
 public class Order_Type extends Activity {
     static int new_ord_flag=0;
-    int finalize_order;
-
     @Override
     public void onBackPressed() {
         // do nothing.

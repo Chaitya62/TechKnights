@@ -1,11 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\blank.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\blank.png"
-    },
-    {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eblogo.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\eblogo.png"
     },
     {
         "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\blank.png",
@@ -16,16 +12,8 @@
         "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\vegvectrr.png"
     },
     {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dessert_l.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\dessert_l.png"
-    },
-    {
         "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dessert_l.png",
         "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\dessert_l.png"
-    },
-    {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vegvectrr.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\vegvectrr.png"
     },
     {
         "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
@@ -40,27 +28,11 @@
         "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\vegs.png"
     },
     {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\soup_l.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\soup_l.png"
-    },
-    {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\vegs.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\vegs.png"
-    },
-    {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\menu.png"
-    },
-    {
         "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\non_veg.png",
         "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\non_veg.png"
     },
     {
         "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu.png",
         "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\menu.png"
-    },
-    {
-        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\non_veg.png",
-        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\virtualW\\app\\src\\main\\res\\drawable-xxhdpi\\non_veg.png"
     }
 ]
