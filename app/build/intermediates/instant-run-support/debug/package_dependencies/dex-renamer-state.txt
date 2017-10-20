@@ -1,0 +1,10 @@
+#Sat Oct 07 11:56:27 IST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_18d2e62037ead9b791fbb668181604e36310af09
+base.1=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_5cc0780fc0aae03305bd2459f0b5a27c338edde1
+base.0=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_91034a14f1182cbf200835d487a5cf29d162aac8
+file.2=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_18d2e62037ead9b791fbb668181604e36310af09\\classes.dex
+file.1=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_5cc0780fc0aae03305bd2459f0b5a27c338edde1\\classes.dex
+file.0=C\:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_91034a14f1182cbf200835d487a5cf29d162aac8\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\register_table.jpg",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\register_table.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash.jpg",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menubg.jpg",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\menubg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\white.jpg",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-xxhdpi\\white.jpg"
+    }
+]

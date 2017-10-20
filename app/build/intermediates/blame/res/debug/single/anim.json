@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadout.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\fadout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadin.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\fadin.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_left.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\right_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_out.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\anim_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_in.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\anim_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_right.xml",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\anim\\left_right.xml"
+    }
+]

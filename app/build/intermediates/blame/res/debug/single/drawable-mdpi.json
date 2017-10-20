@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\soup_l.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\soup_l.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vegs.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\vegs.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vegvectrr.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\vegvectrr.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\blank.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\blank.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dessert_l.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\dessert_l.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\eblogo.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\eblogo.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\non_veg.png",
+        "source": "C:\\Users\\jagru\\AndroidStudioProjects\\ezybzy\\app\\src\\main\\res\\drawable-mdpi\\non_veg.png"
+    }
+]
